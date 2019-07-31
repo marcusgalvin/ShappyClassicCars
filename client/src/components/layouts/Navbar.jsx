@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <Fragment>
       <div>
-        <p>hello world</p>
+        <p>nav bar placeholder</p>
       </div>
     </Fragment>
   );
